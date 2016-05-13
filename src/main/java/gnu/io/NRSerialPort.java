@@ -188,10 +188,7 @@ public class NRSerialPort
 
     public void setBaud(int baud)
     {
-
         this.baud = baud;
-        return;
-
     }
 
 
